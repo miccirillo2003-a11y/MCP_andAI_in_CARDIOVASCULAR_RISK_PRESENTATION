@@ -1,4 +1,4 @@
-# MCP_andAI_in_CARDIOVASCULAR_RISK_PRESENTATION
+# MCP_and_AI_in_CARDIOVASCULAR_RISK_PRESENTATION
 This repository contains a project developed for the Programming for Data Science exam within the Master's Degree in Data Science and Artificial Intelligence.
 
 The main objective of this project is to provide researchers and medical professionals with an AI-based (Claude) decision support tool in the field of cardiovascular risk assessment. Cardiovascular diseases represent one of the leading causes of mortality worldwide, and early risk prediction plays a crucial role in prevention, diagnosis, and personalized treatment planning. For this reason, the project focuses on leveraging machine learning techniques to analyze clinical datasets and extract meaningful patterns that can support clinical decision-making.
